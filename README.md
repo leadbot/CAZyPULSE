@@ -19,6 +19,18 @@
 
 <br />
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" bgcolor="#ebf8ff">
+        <h3> <a href="https://leadbot.github.io/CAZyPULSE/index.html"> See the live interactive network output here! </a></h3>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
 ## Pipeline At A Glance
 **Input**<br>
 CAZy PUL link e.g. https://www.cazy.org/PULDB/index.php?cazy_mod=GH1&sp_name2=&sp_ncbi2=
@@ -77,8 +89,7 @@ The script processes matrix dependencies directly through Seaborn to construct t
     <td align="center"><b>Euclidean Distance Heatmap</b></td>
   </tr>
   <tr>
-    <td><img src="functional_cooccurrence_pearson_heatmap.png" width="100%" alt="Pearson Heatmap Placeholder" /></td>
-    <td><img src="functional_cooccurrence_euclidean_heatmap.png" width="100%" alt="Euclidean Heatmap Placeholder" /></td>
+
   </tr>
 </table>
 
